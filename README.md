@@ -4,19 +4,30 @@ Portfolio website created using HTML and CSS and a little bit of JavaScript.
 
 # Some Screeshots of the website
 
-![image](https://github.com/Azan9/PortfolioWebsite/assets/43653409/e10ec7ef-3907-4b86-8431-92bc2c7a07e7)
-
-
-
-
-
-![image](https://github.com/Azan9/PortfolioWebsite/assets/43653409/8d77380d-13f7-41fc-a801-447b4eeea7de)
+![image](https://github.com/Azan9/Portfolio-Website/assets/43653409/3f55df8a-f0f0-4638-bfbf-3ab41ce7689f)
 
 
 
 
 
 
-![image](https://github.com/Azan9/PortfolioWebsite/assets/43653409/e518995c-9645-4c18-bf01-16703d54cf67)
+![image](https://github.com/Azan9/Portfolio-Website/assets/43653409/dc70569b-0497-42a9-87d5-2a693784c8cf)
+
+
+
+
+
+
+
+![image](https://github.com/Azan9/Portfolio-Website/assets/43653409/2bc11bce-1c20-4fa9-8e73-b5174623df5d)
+
+
+
+
+
+
+
+![image](https://github.com/Azan9/Portfolio-Website/assets/43653409/7a4291b5-18ff-4aac-a485-c42a1b7fb663)
+
 
 
