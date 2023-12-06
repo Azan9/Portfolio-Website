@@ -1,6 +1,10 @@
 # Portfolio Website
 
-Portfolio website created using HTML and CSS and a little bit of JavaScript.
+Portfolio website created using HTML and CSS and a little bit of JavaScript. 
+
+you can browse through the site [here](https://azan9.github.io/Portfolio-Website/)
+
+
 
 # Some Screeshots of the website
 
